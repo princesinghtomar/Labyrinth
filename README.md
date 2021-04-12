@@ -1,4 +1,4 @@
-# Labyrinth
+# Labyrinth ( This is Not My Code 😥 )
 An OpenGL 2D maze game
 
 ## Dependencies
